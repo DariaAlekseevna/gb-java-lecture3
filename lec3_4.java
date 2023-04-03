@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class lec2_4 {
+public class lec3_4 {
     public static void main(String[] args) {
 
         // когда мы написали ArrayList таким образом( называется сырой тип), мы сделали неявное преобразование к обджекту

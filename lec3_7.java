@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class lec2_7 {
+public class lec3_7 {
     public static void main(String[] args) {
         // примеры создания ArrayList
         ArrayList<Integer> list1 = new ArrayList<Integer>();

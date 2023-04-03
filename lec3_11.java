@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lec2_11 {
+public class lec3_11 {
     public static void main(String[] args) {
 
         List<Integer> list = List.of(1, 12, 123, 1234, 12345);

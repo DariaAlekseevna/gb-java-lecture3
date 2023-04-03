@@ -1,4 +1,4 @@
-public class lec2_3 {
+public class lec3_3 {
 
     public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class lec2_5 {
+public class lec3_5 {
     public static void main(String[] args) {
         // пример с сырыми типами. Row Type
         List list = new ArrayList();

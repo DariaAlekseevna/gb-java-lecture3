@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class lec2_9 {
+public class lec3_9 {
     public static void main(String[] args) {
         // создаем лист символов на основе функционала лист оф
         List<Character> list1 = List.of('S', 'e', 'r', 'g', 'e', 'y');

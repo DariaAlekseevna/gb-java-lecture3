@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class lec2_8 {
+public class lec3_8 {
     public static void main(String[] args) {
         // используем простой тип int
         // int day = 29;

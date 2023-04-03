@@ -1,7 +1,7 @@
 import java.util.Iterator;
 import java.util.List;
 
-public class lec2_10 {
+public class lec3_10 {
     
     public static void main(String[] args) {
         // обычная коллекция сформированная с помощью listof
@@ -22,6 +22,6 @@ public class lec2_10 {
             System.out.println(col.next());
             //col.next();
         }
-        
+
     }
 }

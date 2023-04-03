@@ -1,7 +1,7 @@
 /**
  * lec2_1
  */
-public class lec2_1 {
+public class lec3_1 {
 
     public static void main(String[] args) {
         Object o = 1;

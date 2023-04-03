@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class lec2_6 {
+public class lec3_6 {
 
     public static void main(String[] args) {
 // пример с Save Type. явно указан тип обобщения который используется
